@@ -1,0 +1,8 @@
+step 1 : create a database and table manually
+
+step 2 : Run the file using npm start 
+
+step 3 : Open postman api select post and enter url http://localhost:3000/products
+send the data in form of json
+
+step 4: perform crud operations using get , post , put , delete etc in postman api.
